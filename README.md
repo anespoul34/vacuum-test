@@ -14,7 +14,7 @@ $ npm run dev
 
 ### Screenshot
 
-![header](https://github.com/anespoul34/link/blob/main/static/assets/images/screenshot.png)
+![header](https://github.com/anespoul34/vacuum-test/blob/main/static/screenshot.png)
 
 ### Built with
 
